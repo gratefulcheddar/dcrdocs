@@ -66,6 +66,9 @@ TREZOR Integration
 Ticket Buyer Support<br />
 General Support
 
+**@sndurkin: Developer** <br />
+Decrediton
+
 ## Documentation Support
 
 **@animedow: Documentation Collaborator** <br />
@@ -96,7 +99,7 @@ General Support
 Promotional Crypto-Puzzles<br />
 Community Management<br />
 Public Relations<br />
-Social Media<br />
+Social Media
 
 **@dyrk: Russian Community Manager** <br />
 PoS Support<br /> 
@@ -107,10 +110,15 @@ PoS Support<br />
 Public Relations<br />
 Marketing  
 
+**@haon: Community Coordinator**<br />
+Coordination<br />
+Translations<br />
+Social Media
+
 **@underscoreingsoc: Marketing/Community Manager** <br />
 Community Management<br />
 Public Relations<br />
-Social Media<br />
+Social Media
 
 ## Design Support
 
